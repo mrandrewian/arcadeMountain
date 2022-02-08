@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\Users\\mrand\\git\\arcadeMountain\\public\\assets\\player",
+  "images": [
+    {
+      "name": "tile000.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile000.png",
+      "folder": ""
+    },
+    {
+      "name": "tile001.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile001.png",
+      "folder": ""
+    },
+    {
+      "name": "tile002.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile002.png",
+      "folder": ""
+    },
+    {
+      "name": "tile003.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile003.png",
+      "folder": ""
+    },
+    {
+      "name": "tile004.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile004.png",
+      "folder": ""
+    },
+    {
+      "name": "tile005.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile005.png",
+      "folder": ""
+    },
+    {
+      "name": "tile006.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile006.png",
+      "folder": ""
+    },
+    {
+      "name": "tile007.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile007.png",
+      "folder": ""
+    },
+    {
+      "name": "tile008.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile008.png",
+      "folder": ""
+    },
+    {
+      "name": "tile009.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile009.png",
+      "folder": ""
+    },
+    {
+      "name": "tile010.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile010.png",
+      "folder": ""
+    },
+    {
+      "name": "tile011.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile011.png",
+      "folder": ""
+    },
+    {
+      "name": "tile012.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile012.png",
+      "folder": ""
+    },
+    {
+      "name": "tile013.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile013.png",
+      "folder": ""
+    },
+    {
+      "name": "tile014.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile014.png",
+      "folder": ""
+    },
+    {
+      "name": "tile015.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile015.png",
+      "folder": ""
+    },
+    {
+      "name": "tile016.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile016.png",
+      "folder": ""
+    },
+    {
+      "name": "tile017.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile017.png",
+      "folder": ""
+    },
+    {
+      "name": "tile018.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile018.png",
+      "folder": ""
+    },
+    {
+      "name": "tile019.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile019.png",
+      "folder": ""
+    },
+    {
+      "name": "tile020.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile020.png",
+      "folder": ""
+    },
+    {
+      "name": "tile021.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile021.png",
+      "folder": ""
+    },
+    {
+      "name": "tile022.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile022.png",
+      "folder": ""
+    },
+    {
+      "name": "tile023.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile023.png",
+      "folder": ""
+    },
+    {
+      "name": "tile024.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile024.png",
+      "folder": ""
+    },
+    {
+      "name": "tile025.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile025.png",
+      "folder": ""
+    },
+    {
+      "name": "tile026.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile026.png",
+      "folder": ""
+    },
+    {
+      "name": "tile027.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile027.png",
+      "folder": ""
+    },
+    {
+      "name": "tile028.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile028.png",
+      "folder": ""
+    },
+    {
+      "name": "tile029.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile029.png",
+      "folder": ""
+    },
+    {
+      "name": "tile030.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile030.png",
+      "folder": ""
+    },
+    {
+      "name": "tile031.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile031.png",
+      "folder": ""
+    },
+    {
+      "name": "tile032.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile032.png",
+      "folder": ""
+    },
+    {
+      "name": "tile033.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile033.png",
+      "folder": ""
+    },
+    {
+      "name": "tile034.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile034.png",
+      "folder": ""
+    },
+    {
+      "name": "tile035.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile035.png",
+      "folder": ""
+    },
+    {
+      "name": "tile036.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile036.png",
+      "folder": ""
+    },
+    {
+      "name": "tile037.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile037.png",
+      "folder": ""
+    },
+    {
+      "name": "tile038.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile038.png",
+      "folder": ""
+    },
+    {
+      "name": "tile039.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile039.png",
+      "folder": ""
+    },
+    {
+      "name": "tile040.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile040.png",
+      "folder": ""
+    },
+    {
+      "name": "tile041.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile041.png",
+      "folder": ""
+    },
+    {
+      "name": "tile042.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile042.png",
+      "folder": ""
+    },
+    {
+      "name": "tile043.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile043.png",
+      "folder": ""
+    },
+    {
+      "name": "tile044.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile044.png",
+      "folder": ""
+    },
+    {
+      "name": "tile045.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile045.png",
+      "folder": ""
+    },
+    {
+      "name": "tile046.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile046.png",
+      "folder": ""
+    },
+    {
+      "name": "tile047.png",
+      "path": "C:/Users/mrand/Downloads/ezgif-7-f5a7d35255-png-96x96-sprite-png/tile047.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "spell",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "C:\\Users\\mrand\\git\\arcadeMountain\\public\\assets\\player",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "OptimalPacker",
+    "packerMethod": "Automatic"
+  }
+}

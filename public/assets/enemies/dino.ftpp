@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\Users\\mrand\\git\\arcadeMountain\\public\\assets\\enemies",
+  "images": [
+    {
+      "name": "idle (1).png",
+      "path": "C:/Users/mrand/Downloads/dino/idle (1).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (2).png",
+      "path": "C:/Users/mrand/Downloads/dino/idle (2).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (3).png",
+      "path": "C:/Users/mrand/Downloads/dino/idle (3).png",
+      "folder": ""
+    },
+    {
+      "name": "idle (4).png",
+      "path": "C:/Users/mrand/Downloads/dino/idle (4).png",
+      "folder": ""
+    },
+    {
+      "name": "kick (1).png",
+      "path": "C:/Users/mrand/Downloads/dino/kick (1).png",
+      "folder": ""
+    },
+    {
+      "name": "kick (2).png",
+      "path": "C:/Users/mrand/Downloads/dino/kick (2).png",
+      "folder": ""
+    },
+    {
+      "name": "kick (3).png",
+      "path": "C:/Users/mrand/Downloads/dino/kick (3).png",
+      "folder": ""
+    },
+    {
+      "name": "sneak (1).png",
+      "path": "C:/Users/mrand/Downloads/dino/sneak (1).png",
+      "folder": ""
+    },
+    {
+      "name": "sneak (2).png",
+      "path": "C:/Users/mrand/Downloads/dino/sneak (2).png",
+      "folder": ""
+    },
+    {
+      "name": "sneak (3).png",
+      "path": "C:/Users/mrand/Downloads/dino/sneak (3).png",
+      "folder": ""
+    },
+    {
+      "name": "sneak (4).png",
+      "path": "C:/Users/mrand/Downloads/dino/sneak (4).png",
+      "folder": ""
+    },
+    {
+      "name": "sneak (5).png",
+      "path": "C:/Users/mrand/Downloads/dino/sneak (5).png",
+      "folder": ""
+    },
+    {
+      "name": "sneak (6).png",
+      "path": "C:/Users/mrand/Downloads/dino/sneak (6).png",
+      "folder": ""
+    },
+    {
+      "name": "sneak (7).png",
+      "path": "C:/Users/mrand/Downloads/dino/sneak (7).png",
+      "folder": ""
+    },
+    {
+      "name": "walk (2).png",
+      "path": "C:/Users/mrand/Downloads/dino/walk (2).png",
+      "folder": ""
+    },
+    {
+      "name": "walk (3).png",
+      "path": "C:/Users/mrand/Downloads/dino/walk (3).png",
+      "folder": ""
+    },
+    {
+      "name": "walk (4).png",
+      "path": "C:/Users/mrand/Downloads/dino/walk (4).png",
+      "folder": ""
+    },
+    {
+      "name": "walk (5).png",
+      "path": "C:/Users/mrand/Downloads/dino/walk (5).png",
+      "folder": ""
+    },
+    {
+      "name": "walk (6).png",
+      "path": "C:/Users/mrand/Downloads/dino/walk (6).png",
+      "folder": ""
+    },
+    {
+      "name": "walk (7).png",
+      "path": "C:/Users/mrand/Downloads/dino/walk (7).png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "dino",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "C:\\Users\\mrand\\git\\arcadeMountain\\public\\assets\\enemies",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "OptimalPacker",
+    "packerMethod": "Automatic"
+  }
+}

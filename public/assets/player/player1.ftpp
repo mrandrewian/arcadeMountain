@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\Users\\mrand\\git\\mountain\\public\\assets\\player",
+  "images": [
+    {
+      "name": "PlayerAttack1.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerAttack1.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerAttack2.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerAttack2.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerAttack3.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerAttack3.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerAttack4.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerAttack4.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerDead1.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerDead1.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerDead10.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerDead10.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerDead2.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerDead2.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerDead3.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerDead3.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerDead4.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerDead4.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerDead5.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerDead5.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerDead6.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerDead6.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerDead7.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerDead7.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerDead8.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerDead8.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerFall1.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerFall1.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerFall2.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerFall2.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerHit1.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerHit1.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerHit2.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerHit2.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerIdle1.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerIdle1.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerIdle2.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerIdle2.png",
+      "folder": ""
+    },
+    {
+      "name": "PlayerJump.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/PlayerJump.png",
+      "folder": ""
+    },
+    {
+      "name": "Playerwalk1.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/Playerwalk1.png",
+      "folder": ""
+    },
+    {
+      "name": "Playerwalk2.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/Playerwalk2.png",
+      "folder": ""
+    },
+    {
+      "name": "Playerwalk3.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/Playerwalk3.png",
+      "folder": ""
+    },
+    {
+      "name": "Playerwalk4.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/Playerwalk4.png",
+      "folder": ""
+    },
+    {
+      "name": "Playerwalk5.png",
+      "path": "C:/Users/mrand/Downloads/Platform Asset Cyber gianman/Player/Playerwalk5.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "player1",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "C:\\Users\\mrand\\git\\mountain\\public\\assets\\player",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "OptimalPacker",
+    "packerMethod": "Automatic"
+  }
+}
